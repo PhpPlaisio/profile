@@ -1,0 +1,9 @@
+<kernel>
+    <properties>
+        <property>
+            <type>\Plaisio\Profile\Profiles</type>
+            <name>profile</name>
+            <description>The helper object for profile management.</description>
+        </property>
+    </properties>
+</kernel>

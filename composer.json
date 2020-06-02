@@ -1,0 +1,17 @@
+{
+  "name": "plaisio/profile",
+  "description": "PhpPlaisio: Profile",
+  "keywords": [
+    "PhpPlaisio",
+    "Profile"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=7.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "Plaisio\\Profile\\": "src/"
+    }
+  }
+}
